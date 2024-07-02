@@ -1,0 +1,6 @@
+- 👋 Qual foi do job, sou o  @TOKYOSXR
+- 👀 Estou interessado em ser um full stack 
+- 🌱 No momento estou aprendendo html, java e mySQL.
+- 💞️ Eu sou colaborador da empresa WEG
+- 📫 insta: @intj.jota
+- 😄 Pronouns: ele/dele
