@@ -1,6 +1,1 @@
-- 👋 Iae do batalhão, sou o  @TOKYOSXR
-- 👀 Estou interessado em ser um full stack 
-- 🌱 No momento estou aprendendo html, java e mySQL.
-- 💞️ Eu sou colaborador da empresa WEG
-- 📫 insta: @intj.jota
-- 😄 Pronouns: ele/dele
+Olá! 👋 Me chamo Juscelino, mas pode me chamar de Tokyo. Sou estudante de Análise e Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento web. Atualmente, estou aprendendo Java, JavaScript, HTML, CSS, Flutter e Dart. Meu objetivo é me tornar um desenvolvedor Full Stack e criar aplicações modernas e eficientes. Sempre busco novos desafios para evoluir e aprimorar minhas habilidades. 🚀
