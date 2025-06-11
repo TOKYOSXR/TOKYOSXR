@@ -1,12 +1,10 @@
 Olá! 👋 Me chamo Juscelino, mas pode me chamar de Tokyo. Sou estudante de Análise e Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento web. Atualmente, estou aprendendo Java, JavaScript, HTML, CSS, Flutter e Dart. Meu objetivo é me tornar um desenvolvedor Full Stack e criar aplicações modernas e eficientes. Sempre busco novos desafios para evoluir e aprimorar minhas habilidades. 🚀
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOKYOSXR&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOKYOSXR&hide_progress=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TOKYOSXR&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOKYOSXR&layout=compact&theme=tokyonigth" height="180">
 </div>
+
 
 ## 🖥️ Tecnologias e Ferramentas: 
 <div align="center">
@@ -23,6 +21,4 @@ Olá! 👋 Me chamo Juscelino, mas pode me chamar de Tokyo. Sou estudante de An�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />          
 </div>
-
-![Snake animation](https://github.com/TOKYOSXR/TOKYOSXR/blob/output/github-contribution-grid-snake.svg)
 
