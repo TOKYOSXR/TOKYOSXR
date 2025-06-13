@@ -63,7 +63,7 @@ Sou um entusiasta da tecnologia em constante evolução! Atualmente estudando **
 ## 📫 Contato
 
 - ✉️ Email: **juscelinor406@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario/)  
+- 💼 LinkedIn: [linkedin.com/in/TOKYO](https://www.linkedin.com/in/tokyo-sxr-8589612aa/)  
 - 🌐 Portfólio: *Em construção...*
 
 ---
