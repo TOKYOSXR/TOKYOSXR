@@ -81,3 +81,6 @@ Sou um entusiasta da tecnologia em constante evolução! Atualmente estudando **
 ---
 
 <p align="center">Obrigado pela visita! 😄</p>
+<p align="center">
+  <img src="https://tinyurl.com/yacv43k9" alt="ryan gosling gif" width="400">
+</p>
