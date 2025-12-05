@@ -17,7 +17,6 @@
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Status
 
@@ -25,7 +24,7 @@
   <img src="https://gh-readme-profile.vercel.app/api?username=TOKYOSXR&theme=dark" />
 </div>
 
----
+
 
 ## 🛠️ Minhas Stacks
 
@@ -33,7 +32,7 @@
  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,astro,nextjs,ts,spring,python,java,mysql,supabase,dart,flutter,github,git,figma&perline=6" />
 </div>
 
----
+
 
 ## 📬 Contato
 
