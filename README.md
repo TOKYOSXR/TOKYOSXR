@@ -1,7 +1,5 @@
 #  *Olá! Eu sou o* **Juscelino**
 
----
-
 ## 🧑‍💻 Quem Sou Eu?
 
 <table>
